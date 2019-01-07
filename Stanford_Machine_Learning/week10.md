@@ -1,3 +1,4 @@
-- learning curve.
+- Why large data? learning curve.
   - m is not helpful when high bias.
   - m is helpful when high variance.
+  - so we shift the data from high bias to high variance by adding more features etc..
