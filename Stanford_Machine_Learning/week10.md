@@ -1,0 +1,3 @@
+- learning curve.
+  - m is not helpful when high bias.
+  - m is helpful when high variance.
