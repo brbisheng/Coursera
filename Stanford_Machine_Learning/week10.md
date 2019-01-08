@@ -28,3 +28,6 @@ The graph is: `x- nb. of iterations. y - cost`
 In SGD, the path is less noisy with decreasing learning rate as iteration number increases.
 
 This method is used both for tuning learning rate and checking that SGD is functioning correctly.
+
+## online learning.
+
