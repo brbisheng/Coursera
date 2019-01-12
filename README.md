@@ -9,9 +9,9 @@
 
 4. deep learning
 
-5. stanford lagunita
+5. stanford lagunita (convex optimization, database..)
 
-6. mit
+6. mit open
 
 7. EdX (micro to geogia)
 
