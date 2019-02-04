@@ -3,12 +3,12 @@
 
 1. Machine learning from Andrew NG
     - [cert. of accomplishment](https://www.coursera.org/account/accomplishments/certificate/BUX4LZ6BC2TH)
-    - reviewing, writing notes.
+    - reviewing, organizing notes.
 
 2. Algorithm Specializations from Stanford
     - Lesson 1:
-      - certificat d'accomplissement
-      - writing notes
+      - certificat d'accomplissement (see the folder please)
+      - reviewing, organizing notes (3/4)
 
 3. Probability graphic models from Stanford
 
