@@ -3,7 +3,7 @@
 
 1. Machine learning from Andrew NG
     - [cert. of accomplishment](https://www.coursera.org/account/accomplishments/certificate/BUX4LZ6BC2TH)
-    - reviewing, organizing notes.
+    - reviewing, organizing notes. (1/11)
 
 2. Algorithm Specializations from Stanford
     - Lesson 1:
