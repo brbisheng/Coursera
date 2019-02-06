@@ -1,4 +1,4 @@
-## OCR Pipeline
+## OCR Pipeline (example:)
 - Image => Text detection => character segmentation => character recognition
 
 ## sliding Windows.
