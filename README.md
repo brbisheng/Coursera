@@ -27,3 +27,12 @@
 10. EdX (micro to geogia)
 
 11. Udacity (to geogia)
+
+
+Add Python 3 to jupyter notebook: (jupyter notebook ubuntu python switch)
+1. https://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython
+```
+python3 -m pip install ipykernel
+python3 -m ipykernel install --user
+```
+####
