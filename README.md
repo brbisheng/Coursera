@@ -7,8 +7,13 @@
 
 2. Algorithm Specializations from Stanford
     - Lesson 1:
-      - certificat d'accomplissement (see the folder please)
+      - [cert. of accomplishment](https://www.coursera.org/account/accomplishments/certificate/H3G7HVQ5JCTD)
       - reviewing, organizing notes (3/4)
+    - Lesson 2:
+      - [cert. of accomplishment](https://www.coursera.org/account/accomplishments/certificate/G9V9YMHVAD4A)
+      - reviewing, organizing notes (3/4)
+      
+      
 
 3. Probability graphic models from Stanford
 
