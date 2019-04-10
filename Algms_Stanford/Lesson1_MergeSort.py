@@ -58,4 +58,7 @@ toc = time.time()
 
 print(toc - tic)  
 
-# if len(str) > 1, split into two 
+## References:
+##    - https://stackoverflow.com/questions/509211/understanding-slice-notation
+
+
