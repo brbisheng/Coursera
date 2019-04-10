@@ -2,15 +2,13 @@ import time
 
 input_str = list('843184312348129')
 
-# input_str = list('8431')
-
 def mergesort(str_arg = input_str):
     
     ## length of input string
     n = len(str_arg)
     
     if n < 2:
-        ## exit if n is a one-element list
+        ## exit if str_arg is a one-element list
         return str_arg
     else:
         n_left = n//2
@@ -19,7 +17,7 @@ def mergesort(str_arg = input_str):
         
         # print(arr_left, arr_right)
         
-        ## if n is greater than 1, mergesort will run recursively to return the sorted list. 
+        ## If n is greater than 1, mergesort will run recursively to return the sorted list. 
         arr_left  = mergesort(arr_left)
         arr_right = mergesort(arr_right)
         
@@ -41,12 +39,12 @@ def mergesort(str_arg = input_str):
                     result.append(arr_right[j])
                     j += 1
             
-            ## if we have run out of arr_right:        
+            ## If we have run out of arr_right:        
             while (i < len(arr_left)):
                     result.append(arr_left[i]) 
                     i += 1
             
-            ## if we have run out of arr_left:
+            ## If we have run out of arr_left:
             while (j < len(arr_right)):
                     result.append(arr_right[j])
                     j += 1
